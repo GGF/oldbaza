@@ -1,0 +1,6 @@
+	php_flag	display_errors					off
+	php_flag	magic_quotes_gpc				off
+	php_flag	register_globals				on
+	php_flag	register_long_arrays				on
+
+
